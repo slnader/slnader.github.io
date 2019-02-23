@@ -34,15 +34,15 @@ _Stanford Center for Education Policy Analysis_
 
 Interactive graphics depicting trends in racial and ethnic achievement gaps for all 50 states, and how the gaps relate to socioeconomic inequalities between groups.
 
-[see project](https://cepa.stanford.edu/educational-opportunity-monitoring-project/achievement-gaps/race/)
+[see project](https://cepa.stanford.edu/educational-opportunity-monitoring-project/achievement-gaps/race/) | [see code](https://github.com/slnader/achievement_gaps)
 
 ### Income Segregation in the United States' Largest Metropolitan Areas
 
 _Stanford Center for Poverty and Inequality_
 
 Interactive maps of the patterns and trends in residential income segregation over the past forty years in the two dozen most populated metropolitan areas of the United States.
-
-[see project](http://web.stanford.edu/group/scspi/income-segregation-maps/metros.html?page=0)
+ 
+[see project](http://web.stanford.edu/group/scspi/income-segregation-maps/metros.html?page=0) | [see code](https://github.com/slnader/income_maps)
 
 ### The Rent is Too Damn High
 
