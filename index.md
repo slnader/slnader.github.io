@@ -16,6 +16,11 @@ with Daniel E. Ho, David Ames, and David Marcus, _Journal of Law, Economics, and
 
 Studying a natural experiment in which 5-10% of draft opinions by judges of the Board of Veterans Appeals (BVA) were randomly selected for "quality review" by a team of full-time staff attorneys, we show that quality review had no appreciable effects on appeals or remands.  
 
+### Due Process and Mass Adjudication: Crisis and Reform
+with Daniel E. Ho, David Ames, and David Marcus, _Stanford Law Review 72_ (Forthcoming, 2019)
+
+We ask whether management programs that agencies use systematically to audit and improve the quality of their judges' decision-making can uphold the promise of due process in mass adjudication.
+
 ### New Evidence on Information Disclosure through Restaurant Hygiene Grading: Reply
 with Zoe C. Ashwood and Daniel E. Ho, _American Economic Journal: Policy_ (Forthcoming, 2019)
 
@@ -39,7 +44,7 @@ Interactive maps of the patterns and trends in residential income segregation ov
 
 [see project](http://web.stanford.edu/group/scspi/income-segregation-maps/metros.html?page=0)
 
-### [The Rent is Too Damn High]
+### The Rent is Too Damn High
 
 _The Brooklyn Quarterly_
 
