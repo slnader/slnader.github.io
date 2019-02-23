@@ -23,22 +23,26 @@ Expanding hospitalization data and collecting new data on mandatorily reported i
 
 ## Data Visualizations
 
-### [The Educational Opportunity Monitoring Project](https://cepa.stanford.edu/educational-opportunity-monitoring-project/achievement-gaps/race/)
+### The Educational Opportunity Monitoring Project
 
 _Stanford Center for Education Policy Analysis_
 
 Interactive graphics depicting trends in racial and ethnic achievement gaps for all 50 states, and how the gaps relate to socioeconomic inequalities between groups.
 
-### [Income Segregation in the United States' Largest Metropolitan Areas](http://web.stanford.edu/group/scspi/income-segregation-maps/metros.html?page=0)
+[see project](https://cepa.stanford.edu/educational-opportunity-monitoring-project/achievement-gaps/race/)
+
+### Income Segregation in the United States' Largest Metropolitan Areas
 
 _Stanford Center for Poverty and Inequality_
 
 Interactive maps of the patterns and trends in residential income segregation over the past forty years in the two dozen most populated metropolitan areas of the United States.
 
-### [The Rent is Too Damn High](http://brooklynquarterly.org/the-rent-is-too-damn-high-nyc-rent-vs-income-zip-by-zip/)
+[see project](http://web.stanford.edu/group/scspi/income-segregation-maps/metros.html?page=0)
+
+### [The Rent is Too Damn High]
 
 _The Brooklyn Quarterly_
 
 Interactive map of the rent burdens and rent controlled buildings block by block in one of the country's most expensive cities.
 
-[see code](https://github.com/slnader/nycrent)
+[see project](http://brooklynquarterly.org/the-rent-is-too-damn-high-nyc-rent-vs-income-zip-by-zip/) | [see code](https://github.com/slnader/nycrent)
