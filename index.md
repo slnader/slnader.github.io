@@ -24,7 +24,7 @@ We ask whether management programs that agencies use systematically to audit and
 ### New Evidence on Information Disclosure through Restaurant Hygiene Grading: Reply
 with Zoe C. Ashwood and Daniel E. Ho, _American Economic Journal: Policy_ (Forthcoming, 2019)
 
-Expanding hospitalization data and collecting new data on mandatorily reported illnesses, we show that a previous finding showing that restaurant grading decreased foodborne illness in LA does not hold up under improvements to the original data and methodology. 
+Expanding hospitalization data and collecting new data on mandatorily reported illnesses, we show that a previous finding that restaurant grading decreased foodborne illness in LA does not hold up under improvements to the original data and methodology. 
 
 ## Data Visualizations
 
