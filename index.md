@@ -21,7 +21,7 @@ with Daniel E. Ho, David Ames, and David Marcus, _Stanford Law Review 72_ (Forth
 
 We ask whether management programs that agencies use systematically to audit and improve the quality of their judges' decision-making can uphold the promise of due process in mass adjudication.
 
-### New Evidence on Information Disclosure through Restaurant Hygiene Grading: Reply
+### New Evidence on Information Disclosure through Restaurant Hygiene Grading
 with Zoe C. Ashwood and Daniel E. Ho, _American Economic Journal: Policy_ (Forthcoming, 2019)
 
 Expanding hospitalization data and collecting new data on mandatorily reported illnesses, we show that a previous finding that restaurant grading decreased foodborne illness in LA does not hold up under improvements to the original data and methodology. 
