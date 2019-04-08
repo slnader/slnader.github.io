@@ -9,7 +9,7 @@ with Daniel E. Ho, _Nature Sustainability_ (Forthcoming, 2019)
 
 We develop a convolutional neural network using high resolution satellite images that offers an effective, highly accurate, and lower cost approach to detecting CAFO locations. 
 
-[see code](https://github.com/slnader/cafo_public)
+[see paper](https://www.nature.com/articles/s41893-019-0246-x) | [see code](https://github.com/slnader/cafo_public)
 
 ### Quality Review of Mass Adjudication: A Randomized Natural Experiment at the Board of Veterans Appeals, 2003-16
 with Daniel E. Ho, David Ames, and David Marcus, _Journal of Law, Economics, and Organization_ (Forthcoming, 2019)
