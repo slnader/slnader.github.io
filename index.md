@@ -4,15 +4,15 @@ I am a Ph.D. student in political science at Stanford University specializing in
 
 ## Publications
 
-### Deep Learning to Map Concentrated Animal Feeding Operations 
-with Daniel E. Ho, _Nature Sustainability_ (Forthcoming, 2019)
+### Deep Learning to Map Concentrated Animal Feeding Operations
+with Daniel E. Ho, _Nature Sustainability_ (2019)
 
-We develop a convolutional neural network using high resolution satellite images that offers an effective, highly accurate, and lower cost approach to detecting CAFO locations. 
+We develop a convolutional neural network using high resolution satellite images that offers an effective, highly accurate, and lower cost approach to detecting CAFO locations.
 
 [see paper](https://www.nature.com/articles/s41893-019-0246-x) | [see code](https://github.com/slnader/cafo_public)
 
 ### Quality Review of Mass Adjudication: A Randomized Natural Experiment at the Board of Veterans Appeals, 2003-16
-with Daniel E. Ho, David Ames, and David Marcus, _Journal of Law, Economics, and Organization_ (Forthcoming, 2019)
+with Daniel E. Ho, David Ames, and David Marcus, _Journal of Law, Economics, and Organization_ (2019)
 
 Studying a natural experiment in which 5-10% of draft opinions by judges of the Board of Veterans Appeals (BVA) were randomly selected for "quality review" by a team of full-time staff attorneys, we show that quality review had no appreciable effects on appeals or remands.  
 
@@ -24,7 +24,7 @@ We ask whether management programs that agencies use systematically to audit and
 ### New Evidence on Information Disclosure through Restaurant Hygiene Grading
 with Zoe C. Ashwood and Daniel E. Ho, _American Economic Journal: Policy_ (Forthcoming, 2019)
 
-Expanding hospitalization data and collecting new data on mandatorily reported illnesses, we show that a previous finding that restaurant grading decreased foodborne illness in LA does not hold up under improvements to the original data and methodology. 
+Expanding hospitalization data and collecting new data on mandatorily reported illnesses, we show that a previous finding that restaurant grading decreased foodborne illness in LA does not hold up under improvements to the original data and methodology.
 
 ## Data Visualizations
 
@@ -41,9 +41,10 @@ Interactive graphics depicting trends in racial and ethnic achievement gaps for 
 _Stanford Center for Poverty and Inequality_
 
 Interactive maps of the patterns and trends in residential income segregation over the past forty years in the two dozen most populated metropolitan areas of the United States.
- 
+
 [see project](http://web.stanford.edu/group/scspi/income-segregation-maps/metros.html?page=0) | [see code](https://github.com/slnader/income_maps)
 
+<!--
 ### The Rent is Too Damn High
 
 _The Brooklyn Quarterly_
@@ -51,3 +52,4 @@ _The Brooklyn Quarterly_
 Interactive map of the rent burdens and rent controlled buildings block by block in one of the country's most expensive cities.
 
 [see project](http://brooklynquarterly.org/the-rent-is-too-damn-high-nyc-rent-vs-income-zip-by-zip/) | [see code](https://github.com/slnader/nycrent)
+-->
