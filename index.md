@@ -5,6 +5,7 @@ I am a Ph.D. student in political science at Stanford University specializing in
 ## Affiliations
 
 [Reglab @ Stanford Law School](https://reglab.stanford.edu)
+
 The Democracy and Polarization Lab @ Stanford Political Science
 
 ## Publications
