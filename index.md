@@ -16,14 +16,14 @@ with Daniel E. Ho, David Ames, and David Marcus, _Journal of Law, Economics, and
 
 Studying a natural experiment in which 5-10% of draft opinions by judges of the Board of Veterans Appeals (BVA) were randomly selected for "quality review" by a team of full-time staff attorneys, we show that quality review had no appreciable effects on appeals or remands.  
 
-[see paper](https://doi.org/10.1093/jleo/ewz001)
+[see paper](https://doi.org/10.1093/jleo/ewz001) |
 
 ### New Evidence on Information Disclosure through Restaurant Hygiene Grading
 with Zoe C. Ashwood and Daniel E. Ho, _American Economic Journal: Policy_ (2019)
 
 Expanding hospitalization data and collecting new data on mandatorily reported illnesses, we show that a previous finding that restaurant grading decreased foodborne illness in LA does not hold up under improvements to the original data and methodology.
 
-[see paper](https://doi.org/10.1257/pol.20180230)
+[see paper](https://doi.org/10.1257/pol.20180230) |
 
 ### Due Process and Mass Adjudication: Crisis and Reform
 with Daniel E. Ho, David Ames, and David Marcus, _Stanford Law Review 72_ (Forthcoming, 2019)
@@ -35,7 +35,7 @@ We ask whether management programs that agencies use systematically to audit and
 ### Did Restaurant Hygiene Grading in Los Angeles Immediately Reduce Foodborne Illness by 20% Across All of Southern California? A Response to Jin & Leslie
 with Daniel E. Ho, _SIEPR Working Paper_ (2019)
 
-[see paper](https://dho.stanford.edu/wp-content/uploads/JL_Response.pdf)
+[see paper](https://dho.stanford.edu/wp-content/uploads/JL_Response.pdf) |
 
 ## Data Visualizations
 
