@@ -2,6 +2,11 @@
 
 I am a Ph.D. student in political science at Stanford University specializing in statistical methods for the study of American politics. Previously, I analyzed administrative policies at the local, state, and federal level as a research fellow at Stanford Law School.
 
+## Affiliations
+
+[Reglab @ Stanford Law School](https://reglab.stanford.edu)
+The Democracy and Polarization Lab @ Stanford Political Science
+
 ## Publications
 
 ### Deep Learning to Map Concentrated Animal Feeding Operations
