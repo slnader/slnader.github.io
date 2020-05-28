@@ -11,21 +11,25 @@ I am a Ph.D. student in political science at Stanford University specializing in
 ## Publications
 
 ### Feasible Policy Evaluation by Design: A Randomized Synthetic Stepped-Wedge Trial of Mandated Disclosure in King County
-with Daniel E. Ho and Becky Elias _Evaluation Review_ (Forthcoming)
+with Daniel E. Ho and Becky Elias, _Evaluation Review_ (Forthcoming)
 
 Evidence-based policy is limited by the perception that randomized controlled trials (RCTs) are expensive and infeasible. We demonstrate how a stepped-wedge (randomized roll-out) design that adapts synthetic control methods overcame substantial practical, administrative, political, and statistical constraints to evaluating King County’s new food safety rating system.
 
+|
+
 ### The Effectiveness of a Neighbor-to-Neighbor Get-Out-the-Vote Program: Evidence from the 2017 Virginia State Elections
-with Daniel E. Ho, Alison Morantz, and Tom A. Rutter _Journal of Experimental Political Science_ (Forthcoming)
+with Daniel E. Ho, Alison Morantz, and Tom A. Rutter, _Journal of Experimental Political Science_ (Forthcoming)
 
 We analyze the results of a neighbor-to-neighbor, grassroots get-out-the-vote (GOTV) drive in Virginia, in which unpaid volunteers were encouraged to contact at least three nearby registered voters who were likely co-partisans yet relatively unlikely to vote in the 2017 state election. We find that the volunteers in the original program design drove a statistically significant 2.3\% increase in turnout, which was concentrated in the first voter pair assigned to each volunteer.
+
+|
 
 ### Due Process and Mass Adjudication: Crisis and Reform
 with Daniel E. Ho, David Ames, and David Marcus, _Stanford Law Review 72_ (2020)
 
 We ask whether management programs that agencies use systematically to audit and improve the quality of their judges' decision-making can uphold the promise of due process in mass adjudication.
 
-[see paper](https://www.stanfordlawreview.org/print/article/due-process-and-mass-adjudication/)
+[see paper](https://www.stanfordlawreview.org/print/article/due-process-and-mass-adjudication/) |
 
 ### New Evidence on Information Disclosure through Restaurant Hygiene Grading
 with Zoe C. Ashwood and Daniel E. Ho, _American Economic Journal: Policy_ (2019)
