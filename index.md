@@ -11,11 +11,11 @@ I am a Ph.D. student in political science at Stanford University specializing in
 ## Publications
 
 ### Feasible Policy Evaluation by Design: A Randomized Synthetic Stepped-Wedge Trial of Mandated Disclosure in King County
-with Daniel E. Ho and Becky Elias, _Evaluation Review_ (Forthcoming)
+with Daniel E. Ho and Becky Elias, _Evaluation Review_ (2020)
 
 Evidence-based policy is limited by the perception that randomized controlled trials (RCTs) are expensive and infeasible. We demonstrate how a stepped-wedge (randomized roll-out) design that adapts synthetic control methods overcame substantial practical, administrative, political, and statistical constraints to evaluating King County’s new food safety rating system.
 
-|
+[see paper](https://journals.sagepub.com/eprint/SH7QN775JC5ENKMGPIJ6/full) |
 
 ### The Effectiveness of a Neighbor-to-Neighbor Get-Out-the-Vote Program: Evidence from the 2017 Virginia State Elections
 with Daniel E. Ho, Alison Morantz, and Tom A. Rutter, _Journal of Experimental Political Science_ (Forthcoming)
