@@ -38,18 +38,18 @@ We ask whether management programs that agencies use systematically to audit and
 
 [see paper](https://www.stanfordlawreview.org/print/article/due-process-and-mass-adjudication/) |
 
-### The Effectiveness of a Neighbor-to-Neighbor Get-Out-the-Vote Program: Evidence from the 2017 Virginia State Elections
-with Daniel E. Ho, Alison Morantz, and Tom A. Rutter, _Journal of Experimental Political Science_ (2021)
-
-We analyze the results of a neighbor-to-neighbor, grassroots get-out-the-vote (GOTV) drive in Virginia, in which unpaid volunteers were encouraged to contact at least three nearby registered voters who were likely co-partisans yet relatively unlikely to vote in the 2017 state election. We find that the volunteers in the original program design drove a statistically significant 2.3\% increase in turnout, which was concentrated in the first voter pair assigned to each volunteer.
-[see paper](https://doi.org/10.1017/XPS.2020.11) |
-
 ### Feasible Policy Evaluation by Design: A Randomized Synthetic Stepped-Wedge Trial of Mandated Disclosure in King County
 with Daniel E. Ho and Becky Elias, _Evaluation Review_ (2020)
 
 Evidence-based policy is limited by the perception that randomized controlled trials (RCTs) are expensive and infeasible. We demonstrate how a stepped-wedge (randomized roll-out) design that adapts synthetic control methods overcame substantial practical, administrative, political, and statistical constraints to evaluating King County’s new food safety rating system.
 
 [see paper](https://doi.org/10.1177/0193841X20930852) |
+
+### The Effectiveness of a Neighbor-to-Neighbor Get-Out-the-Vote Program: Evidence from the 2017 Virginia State Elections
+with Daniel E. Ho, Alison Morantz, and Tom A. Rutter, _Journal of Experimental Political Science_ (2021)
+
+We analyze the results of a neighbor-to-neighbor, grassroots get-out-the-vote (GOTV) drive in Virginia, in which unpaid volunteers were encouraged to contact at least three nearby registered voters who were likely co-partisans yet relatively unlikely to vote in the 2017 state election. We find that the volunteers in the original program design drove a statistically significant 2.3\% increase in turnout, which was concentrated in the first voter pair assigned to each volunteer.
+[see paper](https://doi.org/10.1017/XPS.2020.11) |
 
 ## Book Chapters
 
@@ -58,7 +58,7 @@ with Daniel E. Ho and Larry Y. Liu, In _Data Science Applied to Sustainability A
 
 The protection of air, water, and land depends critically on the role of government agencies that monitor and enforce environmental laws. We argue that the vast increase in the quantity and quality of satellite imagery, coupled with rapid advances in computer vision, often dubbed the "deep learning" revolution, has the potential to substantially enhance environmental monitoring and enforcement.
 
-[see chapter](https://purl.stanford.edu/bh005pt4088)
+[see chapter](https://purl.stanford.edu/bh005pt4088) |
 
 ## Working Papers
 
@@ -67,14 +67,14 @@ with Jesse Yoder, Andrew Myers, Toby Nowacki, Daniel M. Thompson, Jennifer Wu, C
 
 The 2020 U.S. election saw high turnout, a huge increase in absentee voting, and brought unified national Democratic control—yet, contrary to much punditry, these facts do not imply that vote-by-mail increased turnout or had major partisan effects. Focusing on natural experiments in Texas and Indiana, we find that 65-year-olds turned out at nearly the same rate as 64-year-olds, despite voting absentee at higher rates since they didn’t have to provide an excuse to do so.
 
-[see paper](https://stanforddpl.org/papers/yoder_et_al_2020_turnout/)
+[see paper](https://stanforddpl.org/papers/yoder_et_al_2020_turnout/) |
 
 ### Are Dead People Voting By Mail? Evidence From Washington State Administrative Records
 with Jennifer Wu, Chenoa Yorgason, Hanna Folsz, Andrew Myers, Toby Nowacki, Daniel M. Thompson, Jesse Yoder, Andrew B. Hall
 
 A commonly expressed concern about vote-by-mail in the United States is that mail-in ballots are sent to dead people, stolen by bad actors, and counted as fraudulent votes. To evaluate how often this occurs in practice, we study the state of Washington, which sends every registered voter a mail-in ballot. After exploring the robustness of our findings to weaker conditions for matching names, we conclude that it seems extraordinarily rare for dead people’s ballots to be counted as votes in Washington’s universal vote-by-mail system.
 
-[see paper](https://stanforddpl.org/papers/wu_et_al_2020_dead_voting/)
+[see paper](https://stanforddpl.org/papers/wu_et_al_2020_dead_voting/) |
 
 ### Did Restaurant Hygiene Grading in Los Angeles Immediately Reduce Foodborne Illness by 20% Across All of Southern California? A Response to Jin & Leslie
 with Daniel E. Ho, _SIEPR Working Paper_ (2019)
