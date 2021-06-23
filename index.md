@@ -49,6 +49,7 @@ Evidence-based policy is limited by the perception that randomized controlled tr
 with Daniel E. Ho, Alison Morantz, and Tom A. Rutter, _Journal of Experimental Political Science_ (2021)
 
 We analyze the results of a neighbor-to-neighbor, grassroots get-out-the-vote (GOTV) drive in Virginia, in which unpaid volunteers were encouraged to contact at least three nearby registered voters who were likely co-partisans yet relatively unlikely to vote in the 2017 state election. We find that the volunteers in the original program design drove a statistically significant 2.3\% increase in turnout, which was concentrated in the first voter pair assigned to each volunteer.
+
 [see paper](https://doi.org/10.1017/XPS.2020.11) |
 
 ## Book Chapters
