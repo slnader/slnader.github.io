@@ -98,7 +98,7 @@ _Stanford Center for Poverty and Inequality_
 
 Interactive maps of the patterns and trends in residential income segregation over the past forty years in the two dozen most populated metropolitan areas of the United States.
 
-[see project](http://web.stanford.edu/group/scspi/income-segregation-maps/metros.html?page=0) | [see code](https://github.com/slnader/income_maps)
+[see project](https://inequality.stanford.edu/income-segregation-maps) | [see code](https://github.com/slnader/income_maps)
 
 <!--
 ### The Rent is Too Damn High
