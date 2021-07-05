@@ -63,6 +63,12 @@ The protection of air, water, and land depends critically on the role of governm
 
 ## Working Papers
 
+### Information Ecosystems in Policy Debates: Evidence from Internet Regulation
+
+The Federal Communications Commission's 2017 Restoring Internet Freedom proceeding provides a unique opportunity to study public participation in policymaking. I develop a keyword search engine to rank all 24 million comments on their policy relevance, and a neural network to compare the content of policy-relevant comments. The results suggest that a plurality of interest groups is an imperfect proxy for public viewpoints, but that the type of information available to most individuals may be of the least policy value to policymakers.
+
+[see paper](https://www.dropbox.com/s/cygxbkzplgfoq3z/Information_Ecosystems_in_Policy_Debates.pdf?dl=0)
+
 ### How Did Absentee Voting Affect the 2020 U.S. Election?
 with Jesse Yoder, Andrew Myers, Toby Nowacki, Daniel M. Thompson, Jennifer Wu, Chenoa Yorgason, Andrew B. Hall
 
