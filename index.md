@@ -1,12 +1,14 @@
 ## About me
 
-I am a Ph.D. candidate in political science at Stanford University specializing in statistical methods for the study of American politics.
+I am a Ph.D. candidate in political science with a minor in computational and mathematical engineering at Stanford University. I specialize in computational methods for the study of American politics.
 
 ## Affiliations
 
 [Reglab @ Stanford Law School](https://reglab.stanford.edu)
 
 [The Democracy and Polarization Lab @ Stanford Political Science](https://stanforddpl.org/)
+
+[Institute for Computational and Mathematical Engineering](https://icme.stanford.edu/)
 
 ## Publications
 
@@ -52,6 +54,13 @@ We analyze the results of a neighbor-to-neighbor, grassroots get-out-the-vote (G
 
 [see paper](https://doi.org/10.1017/XPS.2020.11) |
 
+### How Did Absentee Voting Affect the 2020 U.S. Election?
+with Jesse Yoder, Andrew Myers, Toby Nowacki, Daniel M. Thompson, Jennifer Wu, Chenoa Yorgason, Andrew B. Hall, _Science Advances_ (2021)
+
+The 2020 U.S. election saw high turnout, a huge increase in absentee voting, and brought unified national Democratic control—yet, contrary to much punditry, these facts do not imply that vote-by-mail increased turnout or had major partisan effects. Focusing on natural experiments in Texas and Indiana, we find that 65-year-olds turned out at nearly the same rate as 64-year-olds, despite voting absentee at higher rates since they didn’t have to provide an excuse to do so. Voter interest appeared to be more important in driving turnout across vote modes, neutralizing the electoral impact of Democrats voting by mail at higher rates during the historic pandemic.
+
+[see paper](https://www.science.org/doi/10.1126/sciadv.abk1755) |
+
 ## Book Chapters
 
 ### Deep Learning with Satellite Imagery to Enhance Environmental Enforcement
@@ -62,19 +71,6 @@ The protection of air, water, and land depends critically on the role of governm
 [see chapter](https://purl.stanford.edu/bh005pt4088) |
 
 ## Working Papers
-
-### Information Ecosystems in Policy Debates: Evidence from Internet Regulation
-
-The Federal Communications Commission's 2017 Restoring Internet Freedom proceeding provides a unique opportunity to study public participation in policymaking. I develop a keyword search engine to rank all 24 million comments on their policy relevance, and a neural network to compare the content of policy-relevant comments. The results suggest that a plurality of interest groups is an imperfect proxy for public viewpoints, but that the type of information available to most individuals may be of the least policy value to policymakers.
-
-[see paper](https://www.dropbox.com/s/cygxbkzplgfoq3z/Information_Ecosystems_in_Policy_Debates.pdf?dl=0)
-
-### How Did Absentee Voting Affect the 2020 U.S. Election?
-with Jesse Yoder, Andrew Myers, Toby Nowacki, Daniel M. Thompson, Jennifer Wu, Chenoa Yorgason, Andrew B. Hall
-
-The 2020 U.S. election saw high turnout, a huge increase in absentee voting, and brought unified national Democratic control—yet, contrary to much punditry, these facts do not imply that vote-by-mail increased turnout or had major partisan effects. Focusing on natural experiments in Texas and Indiana, we find that 65-year-olds turned out at nearly the same rate as 64-year-olds, despite voting absentee at higher rates since they didn’t have to provide an excuse to do so.
-
-[see paper](https://stanforddpl.org/papers/yoder_et_al_2020_turnout/) |
 
 ### Are Dead People Voting By Mail? Evidence From Washington State Administrative Records
 with Jennifer Wu, Chenoa Yorgason, Hanna Folsz, Andrew Myers, Toby Nowacki, Daniel M. Thompson, Jesse Yoder, Andrew B. Hall
