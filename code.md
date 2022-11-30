@@ -4,13 +4,20 @@ layout: default
 
 ## Public Datasets
 
-- RegLab NC CAFO training dataset
+- NC-CAFO
 [\<link\>](https://reglab.stanford.edu/data/cafo-training-dataset/){:target="_blank"}
 [\<supplementary materials\>](https://static-content.springer.com/esm/art%3A10.1038%2Fs41893-019-0246-x/MediaObjects/41893_2019_246_MOESM1_ESM.pdf){:target="_blank"}
 > The NC-CAFO dataset includes hand-validated images
 of poultry and swine CAFOs and control images throughout the state of North
 Carolina from the US Department of Agriculture (USDA)
 National Agricultural Imagery Program (NAIP).
+
+- fcc-comments
+[\<link\>](https://huggingface.co/datasets/slnader/fcc-comments){:target="_blank"}
+[\<supplementary materials\>](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1002%2Fpoi3.327&file=poi3327-sup-0001-online-appendix.pdf){:target="_blank"}
+> fcc-comments is an annotated version of the comment corpus from the
+Federal Communications Commission's (FCC) 2017 "Restoring Internet Freedom" proceeding.
+The comment data were processed to be in a consistent format (machine-readable pdf or plain text), and annotated with three types of information: whether the comment was cited in the agency's final order, the type of commenter (individual, interest group, business group), and whether the comment was associated with an in-person meeting.
 
 ## Code Repositories and Software
 - Probabilistic relevance ranking algorithm used in "Do fake online comments
