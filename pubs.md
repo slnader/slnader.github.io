@@ -2,17 +2,10 @@
 layout: default
 ---
 
-## Working Papers
-
-- Correspondence analysis and canonical correspondence analysis on disconnected graphs.
-
-- Polarization and state legislative elections (with Andrew Myers and Andrew B. Hall).
-[\<link\>](https://stanforddpl.org/papers/handan-nader_myers_hall_polarization_2022/handan-nader_myers_hall_polarization_2022.pdf){:target="_blank"}
-
 ## Publications
 
-- Handan-Nader, C. (2022). Do fake online comments pose a threat to regulatory policymaking? Evidence from
-Internet regulation in the United States. Policy & Internet, Forthcoming.
+- Handan-Nader, C. (2023). Do fake online comments pose a threat to regulatory policymaking? Evidence from
+Internet regulation in the United States. Policy & Internet, 15(1), 100-116.
 [\<link\>](https://doi.org/10.1002/poi3.327){:target="_blank"}
 
 - Yoder, J., Handan-Nader, C., Myers, A., Nowacki, T., Thompson, D. M., Wu, J. A., & Hall, A. B.
