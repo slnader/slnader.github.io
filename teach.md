@@ -5,7 +5,7 @@ layout: default
 
 - Curriculum Developer, Data Science & Social Systems, Stanford University
 Program in Data Science,
-Fall 2022.
+Fall 2022 and Summer 2023.
 
 - Teaching Assistant, American Political Institutions in Uncertain Times,
 Stanford University Department of Political Science, Winter 2021.

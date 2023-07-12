@@ -1,6 +1,18 @@
 ---
 layout: default
 ---
+## Working Papers
+
+- A graph-based approach to measuring partisan polarization in Congress.
+
+- Graph embeddings with influential outliers using correspondence analysis.
+
+- Polarization and state legislative elections (with A. Myers and A. B. Hall).
+
+## Active Projects
+
+- Uncertainty measures of gender and ethnic bias estimates in word embeddings
+(with A. Vallebueno, A. Gonzalez and F. Surani).
 
 ## Publications
 
