@@ -9,11 +9,6 @@ layout: default
 
 - Polarization and state legislative elections (with A. Myers and A. B. Hall).
 
-## Active Projects
-
-- Uncertainty measures of gender and ethnic bias estimates in word embeddings
-(with A. Vallebueno, A. Gonzalez and F. Surani).
-
 ## Publications
 
 - Handan-Nader, C. (2023). Do fake online comments pose a threat to regulatory policymaking? Evidence from
