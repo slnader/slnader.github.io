@@ -18,7 +18,7 @@ Chenoa Yorgason, Hanna Folsz, Andrew Myers, Tobias Nowacki, Daniel M. Thompson, 
 [\<link\>](https://doi.org/10.1002/poi3.327){:target="_blank"}
 
 - Yoder, Jesse, Handan-Nader, Cassandra, Myers, Andrew, Nowacki, Tobias, Thompson, Daniel M., Wu, Jennifer A., & Hall, Andrew B.
-(2021). How did absentee voting affect the 2020 US election?. Science Advances, 7(52).
+(2021). How did absentee voting affect the 2020 US election? Science Advances, 7(52).
 [\<link\>]( https://doi.org/10.1126/sciadv.abk1755){:target="_blank"}
 
 - Handan-Nader, Cassandra, Ho, Daniel E., Morantz, Alison, & Rutter, Tom A. (2021). The effectiveness of a neighbor-to-neighbor get-out-the-vote program: Evidence from the 2017 Virginia state elections. Journal of Experimental Political Science, 8(2), 145-160. [\<link\>](https://doi.org/10.1017/XPS.2020.11){:target="_blank"}
