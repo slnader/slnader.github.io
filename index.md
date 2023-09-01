@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a Ph.D. candidate in political science with a minor in computational and mathematical engineering at Stanford University. I specialize in adapting methods from engineering disciplines to tackle measurement issues in political science. My research interests include developing robust methods for computing latent embeddings on large datasets (campaign finance, roll call votes, large corpora of text), measuring polarization and extremism in American elections, and applying machine learning methods for more effective regulation.
+I am a Ph.D. candidate in Political Science with a Ph.D. minor in Computational and Mathematical Engineering at Stanford University. My research develops and applies machine learning techniques to measure and characterize the structure of conflict in American political institutions. I'm particularly interested in developing new methods to measure the extent and trajectory of partisan polarization in the U.S. Congress, leveraging large-scale datasets to estimate the ideological positions of candidates for state and federal office, and applying machine learning methods to address large-scale regulatory problems.
 
 ## Affiliations
 
