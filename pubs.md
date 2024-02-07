@@ -3,7 +3,7 @@ layout: default
 ---
 ## Working Papers
 
-- A classification approach to measuring partisan polarization in Congress. [\<link\>](https://www.dropbox.com/scl/fi/eacl9omu18924cgadg5q8/Classification_Approach_Polarization.pdf?rlkey=hqdyhpxuuh6nz6o5qcnhddhjz&dl=0){:target="_blank"}
+- A classification approach to measuring partisan polarization in Congress.
 
 - Graph embeddings with influential outliers using correspondence analysis. [\<link\>](https://www.dropbox.com/scl/fi/7rc8jg5g6lwd1u9q2z71b/CA_Algorithms_Paper.pdf?rlkey=mg5jw71q17861nbbocahafn2g&dl=0){:target="_blank"}
 
