@@ -7,7 +7,7 @@ layout: default
 
 - Graph embeddings with influential outliers using correspondence analysis. [\<link\>](https://www.dropbox.com/scl/fi/7rc8jg5g6lwd1u9q2z71b/CA_Algorithms_Paper.pdf?rlkey=mg5jw71q17861nbbocahafn2g&dl=0){:target="_blank"}
 
-- Polarization and state legislative elections (with Andrew B. Hall and Andrew C.W. Myers). [\<link\>](https://stanforddpl.org/papers/handan-nader_myers_hall_polarization_2022/handan-nader_myers_hall_polarization_2022.pdf){:target="_blank"}
+- Polarization and state legislative elections (with Andrew B. Hall and Andrew C.W. Myers). [\<link\>](https://www.dropbox.com/scl/fi/k9k25rdc97fq3rk82cdvj/HandanNader_Myers_HallFeb24.pdf?rlkey=2yi1yrug40z87532p1lw4y6md&dl=0){:target="_blank"}
 
 - Are dead people voting by mail? Evidence from Washington state administrative records (with Jennifer Wu,
 Chenoa Yorgason, Hanna Folsz, Andrew Myers, Tobias Nowacki, Daniel M. Thompson, Jesse Yoder, and Andrew B. Hall). [\<link\>](https://stanforddpl.org/papers/wu_et_al_2020_dead_voting/wu_et_al_2020_dead_voting.pdf){:target="_blank"}
