@@ -3,6 +3,9 @@ layout: default
 ---
 ## Working Papers
 
+- Statistical uncertainty in word embeddings: GloVe-V (with Andrea Vallebueno, Christopher D. Manning,
+  and Daniel E. Ho). [\<link\>](https://arxiv.org/abs/2406.12165){:target="_blank"}
+
 - A classification approach to measuring partisan polarization in Congress. [\<link\>](https://www.dropbox.com/scl/fi/eacl9omu18924cgadg5q8/Classification_Approach_Polarization.pdf?rlkey=hqdyhpxuuh6nz6o5qcnhddhjz&dl=0){:target="_blank"}
 
 - Correspondence analysis on sparse, high-dimensional contingency
