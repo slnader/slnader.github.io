@@ -4,12 +4,6 @@ layout: default
 
 ## About me
 
-I am a Ph.D. candidate in Political Science with a Ph.D. minor in Computational and Mathematical Engineering at Stanford University. My research develops and applies machine learning techniques to measure and characterize the structure of conflict in American political institutions. I'm particularly interested in developing new methods to measure the extent and trajectory of partisan polarization in the U.S. Congress, leveraging large-scale datasets to estimate the ideological positions of candidates for state and federal office, and applying machine learning methods to address large-scale regulatory problems.
+I am an Assistant Professor of Politics at New York University. My research develops and applies machine learning techniques to measure and characterize the structure of conflict in American political institutions. I'm particularly interested in developing new methods to measure the extent and trajectory of partisan polarization in the U.S. Congress, leveraging large-scale datasets to estimate the ideological positions of candidates for state and federal office, and adapting machine learning methods to address large-scale regulatory problems and legal applications.
 
-## Affiliations
-
-[RegLab @ Stanford Law School](https://reglab.stanford.edu)
-
-[The Democracy and Polarization Lab @ Stanford Political Science](https://stanforddpl.org/)
-
-[Institute for Computational and Mathematical Engineering](https://icme.stanford.edu/)
+Before joining NYU, I completed a Ph.D. in Political Science and a Ph.D. minor in [Computational and Mathematical Engineering](https://icme.stanford.edu/academics-admission){:target="_blank"} at Stanford University. Prior to that, I was a research fellow at the [Regulation, Evaluation, and Governance Lab](http://reglab.stanford.edu){:target="_blank"} at Stanford Law School.
