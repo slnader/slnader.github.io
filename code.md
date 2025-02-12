@@ -4,6 +4,12 @@ layout: default
 
 ## Public Datasets
 
+- Glove-V
+[\<link\>](https://huggingface.co/datasets/reglab/glove-v){:target="_blank"}
+[\<supplementary materials\>](https://aclanthology.org/2024.emnlp-main.510/){:target="_blank"}
+> The Glove-V repository contains pre-computed GloVe embeddings and GloVe-V variances for the
+Corpus of Historical American English (COHA) (1900-1999) (300-dim).
+
 - NC-CAFO
 [\<link\>](https://reglab.stanford.edu/data/cafo-training-dataset/){:target="_blank"}
 [\<supplementary materials\>](https://static-content.springer.com/esm/art%3A10.1038%2Fs41893-019-0246-x/MediaObjects/41893_2019_246_MOESM1_ESM.pdf){:target="_blank"}
@@ -20,6 +26,13 @@ Federal Communications Commission's (FCC) 2017 "Restoring Internet Freedom" proc
 The comment data were processed to be in a consistent format (machine-readable pdf or plain text), and annotated with three types of information: whether the comment was cited in the agency's final order, the type of commenter (individual, interest group, business group), and whether the comment was associated with an in-person meeting.
 
 ## Code Repositories and Software
+- Glove-V starter code
+[\<link\>](https://github.com/reglab/glove-v){:target="_blank"}
+[\<supplementary materials\>](https://aclanthology.org/2024.emnlp-main.510/){:target="_blank"}
+> Code to download pre-computed GloVe embeddings and GloVe-V variances from our HuggingFace repository, 
+to interact with these data products and propagate uncertainty to downstream tasks.
+
+
 - Probabilistic relevance ranking algorithm used in "Do fake online comments
 pose a threat to regulatory policymaking? Evidence from Internet regulation
 in the United States." [\<source\>](https://github.com/slnader/fcc-comments/tree/main/search_utils){:target="_blank"}
