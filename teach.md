@@ -3,7 +3,7 @@ layout: default
 ---
 ## Teaching experience
 
--Quantitative Methods III: Machine Learning, New York University Politics Department, Spring
+- Quantitative Methods III: Machine Learning, New York University Politics Department, Spring
 2025.
 
 - Curriculum Developer, Data Science & Social Systems, Stanford University
