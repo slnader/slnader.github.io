@@ -7,13 +7,14 @@ layout: default
 
 - Correspondence analysis on sparse bipartite graphs with hyperspecialization. [\<link\>](https://www.dropbox.com/scl/fi/7rc8jg5g6lwd1u9q2z71b/CA_Algorithms_Paper.pdf?rlkey=mg5jw71q17861nbbocahafn2g&dl=0){:target="_blank"}
 
-- Polarization and state legislative elections (with Andrew B. Hall and Andrew C.W. Myers). [\<link\>](https://www.dropbox.com/scl/fi/k9k25rdc97fq3rk82cdvj/HandanNader_Myers_HallFeb24.pdf?rlkey=2yi1yrug40z87532p1lw4y6md&dl=0){:target="_blank"}
 
 ## Publications
 
-- Andrea Vallebueno, Cassandra Handan-Nader, Christopher D. Manning, and Daniel E. Ho. (2024). Statistical Uncertainty in Word Embeddings: GloVe-V. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 9032–9047, Miami, Florida, USA. Association for Computational Linguistics. [\<link\>](https://aclanthology.org/2024.emnlp-main.510/){:target="_blank"}
+- Handan-Nader, Cassandra, Myers, Andrew C.W., and Hall, Andrew B. (2025). Polarization and State Legislative Elections. American Journal of Political Science, forthcoming. [\<link\>](https://doi.org/10.1111/ajps.12973){:target="_blank"}
 
-- Wu, Jennifer, Chenoa Yorgason, Hanna Folsz, Cassandra Handan-Nader, Andrew Myers, Tobias Nowacki, Daniel M. Thompson, Jesse Yoder, and Andrew B. Hall. (2024). Are Dead People Voting by Mail: Evidence from Washington State Administrative Data. Election Law Journal: Rules, Politics, and Policy. [\<link\>](https://www.liebertpub.com/doi/10.1089/elj.2023.0047){:target="_blank"}
+- Vallebueno, Andrea, Handan-Nader, Cassandra, Manning, Christopher D., and Ho, Daniel E. (2024). Statistical Uncertainty in Word Embeddings: GloVe-V. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 9032–9047, Miami, Florida, USA. Association for Computational Linguistics. [\<link\>](https://aclanthology.org/2024.emnlp-main.510/){:target="_blank"}
+
+- Wu, Jennifer, Yorgason, Chenoa, Folsz, Hanna, Handan-Nader, Cassandra, Myers, Andrew,  Nowacki, Tobias, Thompson, Daniel M., Yoder, Jesse, and Hall, Andrew B. (2024). Are Dead People Voting by Mail: Evidence from Washington State Administrative Data. Election Law Journal: Rules, Politics, and Policy. [\<link\>](https://www.liebertpub.com/doi/10.1089/elj.2023.0047){:target="_blank"}
 
 - Henderson, Peter, Ho, Daniel, E., Vallebueno, Andrea, Handan-Nader, Cassandra. (2024). Corpus enigmas and contradictory linguistics: Tensions between empirical semantic meaning and judicial interpretation. Minnesota Journal of Law, Science & Technology, 25, 2. [\<link\>](https://scholarship.law.umn.edu/mjlst/vol25/iss2/12/){:target="_blank"}
 
