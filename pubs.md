@@ -3,7 +3,7 @@ layout: default
 ---
 ## Working Papers
 
-- A Unified Measure of Partisan Polarization and Legislator Extremism in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/wriheqojkakoi7p8yguxz/Unified_Measure.pdf?rlkey=cuc3tnic4e86pn67mxbjvcrfj&st=yftd2leh&dl=0){:target="_blank"}
+- Unifying Measures of Partisan Polarization in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/1ib56nm66nv44mfb2mlao/unifying_measures.pdf?rlkey=n3hb8hk1llg5375k8xk7xkdix&st=3vewt1zi&dl=0){:target="_blank"}
 
 - Correspondence analysis on sparse bipartite graphs with hyperspecialization. [\<link\>](https://www.dropbox.com/scl/fi/7rc8jg5g6lwd1u9q2z71b/CA_Algorithms_Paper.pdf?rlkey=mg5jw71q17861nbbocahafn2g&dl=0){:target="_blank"}
 
