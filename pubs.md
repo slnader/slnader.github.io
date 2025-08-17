@@ -3,12 +3,11 @@ layout: default
 ---
 ## Working Papers
 
-- Unifying Measures of Partisan Polarization in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/1ib56nm66nv44mfb2mlao/unifying_measures.pdf?rlkey=n3hb8hk1llg5375k8xk7xkdix&st=3vewt1zi&dl=0){:target="_blank"}
-
-- Correspondence analysis on sparse bipartite graphs with hyperspecialization. [\<link\>](https://www.dropbox.com/scl/fi/7rc8jg5g6lwd1u9q2z71b/CA_Algorithms_Paper.pdf?rlkey=mg5jw71q17861nbbocahafn2g&dl=0){:target="_blank"}
-
+- A Multidimensional Estimator of Partisan Polarization in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/1ib56nm66nv44mfb2mlao/unifying_measures.pdf?rlkey=n3hb8hk1llg5375k8xk7xkdix&st=3vewt1zi&dl=0){:target="_blank"}
 
 ## Publications
+
+- Handan-Nader, Cassandra. (2025). Correspondence Analysis on Sparse Bipartite Graphs with Hyperspecialization. Journal of Computational and Graphical Statistics, forthcoming. [\<link\>](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2546451){:target="_blank"}
 
 - Handan-Nader, Cassandra, Myers, Andrew C.W., and Hall, Andrew B. (2025). Polarization and State Legislative Elections. American Journal of Political Science, forthcoming. [\<link\>](https://doi.org/10.1111/ajps.12973){:target="_blank"}
 
