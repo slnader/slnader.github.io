@@ -3,11 +3,13 @@ layout: default
 ---
 ## Working Papers
 
-- A Multidimensional Estimator of Partisan Polarization in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/omxdp0qa91wom0eb3gusq/multidimensional.pdf?rlkey=xas7qrh3gt2yt3w1zj9vkc3mp&st=7geqvbb9&dl=0){:target="_blank"}
+- Extremism, electoral safety and partisan messaging in the US House of Representatives (with Gary Cox). [\<link\>](https://www.dropbox.com/scl/fi/i39ecpp77gq042inmgfjs/Electoral_incentives_and_majority_party_messaging_in_the_US_House_of_Representatives.pdf?rlkey=rfoi2feygz8ftpwy6r2p8c7hq&st=o7sd1e2w&dl=0){:target="_blank"}
+
+- A Multidimensional Estimator of Partisan Polarization in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/h5myva7azy3pcb8bey3sf/multidimensional.pdf?rlkey=xduj9b97wlv29usggbw9mm9x3&st=33czgcex&dl=0){:target="_blank"}
 
 ## Publications
 
-- Handan-Nader, Cassandra. (2025). Correspondence Analysis on Sparse Bipartite Graphs with Hyperspecialization. Journal of Computational and Graphical Statistics, forthcoming. [\<link\>](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2546451){:target="_blank"}
+- Handan-Nader, Cassandra. (2026). Correspondence Analysis on Sparse Bipartite Graphs with Hyperspecialization. Journal of Computational and Graphical Statistics, 35(1), 461–469. [\<link\>](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2546451){:target="_blank"}
 
 - Handan-Nader, Cassandra, Myers, Andrew C.W., and Hall, Andrew B. (2025). Polarization and State Legislative Elections. American Journal of Political Science, forthcoming. [\<link\>](https://doi.org/10.1111/ajps.12973){:target="_blank"}
 
