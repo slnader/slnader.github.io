@@ -11,7 +11,7 @@ layout: default
 
 - Handan-Nader, Cassandra. (2026). Correspondence Analysis on Sparse Bipartite Graphs with Hyperspecialization. Journal of Computational and Graphical Statistics, 35(1), 461–469. [\<link\>](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2546451){:target="_blank"}
 
-- Handan-Nader, Cassandra, Myers, Andrew C.W., and Hall, Andrew B. (2025). Polarization and State Legislative Elections. American Journal of Political Science, forthcoming. [\<link\>](https://doi.org/10.1111/ajps.12973){:target="_blank"}
+- Handan-Nader, Cassandra, Myers, Andrew C.W., and Hall, Andrew B. (2025). Polarization and State Legislative Elections. American Journal of Political Science, 70(2), 453-470. [\<link\>](http://dx.doi.org/10.1111/ajps.12973){:target="_blank"}
 
 - Vallebueno, Andrea, Handan-Nader, Cassandra, Manning, Christopher D., and Ho, Daniel E. (2024). Statistical Uncertainty in Word Embeddings: GloVe-V. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 9032–9047, Miami, Florida, USA. Association for Computational Linguistics. [\<link\>](https://aclanthology.org/2024.emnlp-main.510/){:target="_blank"}
 
