@@ -5,7 +5,7 @@ layout: default
 
 - Extremism, electoral safety and partisan messaging in the US House of Representatives (with Gary Cox). [\<link\>](https://www.dropbox.com/scl/fi/i39ecpp77gq042inmgfjs/Electoral_incentives_and_majority_party_messaging_in_the_US_House_of_Representatives.pdf?rlkey=rfoi2feygz8ftpwy6r2p8c7hq&st=o7sd1e2w&dl=0){:target="_blank"}
 
-- A Multidimensional Approach to Measuring Partisan Polarization in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/dfl6pmsw3pdd2mb0l6vy8/multidimensional.pdf?rlkey=0orr0i47r6t3scq4fhmsj69xx&st=yzih5wm8&dl=0){:target="_blank"}
+- A Multidimensional Approach to Measuring Partisan Polarization in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/cmwqlpcl7vg3bxc6ukvy9/multidimensional.pdf?rlkey=wqszvsiev5ty2w9pmsel4n7im&st=5w9b1tpz&dl=0){:target="_blank"}
 
 ## Publications
 
