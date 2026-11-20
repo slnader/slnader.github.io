@@ -3,6 +3,8 @@ layout: default
 ---
 ## Working Papers
 
+- DOCKET: A Pluralistic Benchmark for Evaluating AI-Assisted Policy Feedback in U.S. Rulemaking (with Alexander Spangher, Charlotte Peale, Sílvia Casacuberta, Victor Y. Wu, Mirac Suzgun, Olivia H. Martin, Dan Bateyko, Diyi Yang, Sanmi Koyejo, and Daniel E. Ho). [\<link\>](https://arxiv.org/abs/2611.17914){:target="_blank"}
+
 - Extremism, electoral safety and partisan messaging in the US House of Representatives (with Gary Cox). [\<link\>](https://www.dropbox.com/scl/fi/i39ecpp77gq042inmgfjs/Electoral_incentives_and_majority_party_messaging_in_the_US_House_of_Representatives.pdf?rlkey=rfoi2feygz8ftpwy6r2p8c7hq&st=o7sd1e2w&dl=0){:target="_blank"}
 
 - Measuring Total Partisan Polarization in the U.S. Congress. [\<link\>](https://www.dropbox.com/scl/fi/5ko1c08qp7ziytf1yqfnf/multidimensional.pdf?rlkey=yg084p44k9yc4uond2z9ek5sf&st=kzg73j67&dl=0){:target="_blank"}
